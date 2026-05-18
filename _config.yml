@@ -1,0 +1,7 @@
+title: tntuu
+description: Essays on value, investing, and building
+theme: minima
+author: tntuu
+markdown: kramdown
+plugins:
+  - jekyll-feed
